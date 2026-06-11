@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Sameer Dhumal
 **A passionate Software Engineer from India**
 
-- 🌱 **I’m currently learning:** Python, FastApi, Reactjs, OpenAPI
+- 🌱 **I’m currently learning:** Python, FastApi, Reactjs, AWS
 - 📫 **How to reach me:** sameerdhumal.sd@gmail.com
 
 ## 🌐 Socials:
