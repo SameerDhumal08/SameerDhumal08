@@ -3,6 +3,9 @@
 
 - 🌱 **I’m currently learning:** Python, FastApi, Reactjs, AWS
 - 📫 **How to reach me:** sameerdhumal.sd@gmail.com
+<div align="center">
+![snake gif](https://github.com/SameerDhumal08/SameerDhumal08/blob/output/github-snake-dark.svg)
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sameerdhumal14) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16429564) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameerdhumal.sd@gmail,com) 
