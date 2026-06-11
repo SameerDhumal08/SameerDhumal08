@@ -1,3 +1,8 @@
+# 💫 Hi 👋, I'm Sameer Dhumal
+**A passionate Software Engineer from India**
+
+- 🌱 **I’m currently learning:** Python, FastApi, Reactjs, OpenAPI
+- 📫 **How to reach me:** sameerdhumal.sd@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sameerdhumal14) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16429564) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameerdhumal.sd@gmail,com) 
