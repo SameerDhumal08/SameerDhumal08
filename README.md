@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Sameer Dhumal
 **A passionate Software Engineer from India**
 
-- 🌱 **I’m currently learning:** Python, FastApi, Reactjs, AWS
+- 🌱 **I’m currently learning:** Python, Django, FastApi, Reactjs, AWS
 - 📫 **How to reach me:** sameerdhumal.sd@gmail.com
 
 ![snake gif](https://github.com/SameerDhumal08/SameerDhumal08/blob/output/github-snake-dark.svg)
