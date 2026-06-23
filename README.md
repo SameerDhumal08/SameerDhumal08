@@ -11,7 +11,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&vCenter=true&width=700&lines=ITSM+Developer;2%2B+Years+of+Experience;PG-DAC+%28CDAC%29+Certified;Aspiring+DevOps+Engineer)](https://git.io/typing-svg)
 ![snake gif](https://github.com/SameerDhumal08/SameerDhumal08/blob/output/github-snake-dark.svg)
 
+
+
 ## 🌐 Socials:
+<img align="right" alt="Coding" width="480" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sameerdhumal14) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16429564) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameerdhumal.sd@gmail,com) 
 
 ### **Languages & Frameworks**
