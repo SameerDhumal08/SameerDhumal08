@@ -1,10 +1,10 @@
-# 💫 Hi 👋, I'm Sameer Dhumal
+# 💫 Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Sameer Dhumal
 
-## 🚀 About Me
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me
 
 🔹 🇮🇳 IT Professional with 2+ Years of Experience in Network Operations & IT Service Management (ITSM)
 
-🔹 Currently working as an **ITSM Developer** in the Tools Team
+🔹 Currently working as an ***ITSM Developer*** in the Tools Team
 
 🔹 Learning **DevOps, AWS, Docker, Kubernetes, GitHub Actions & Python**
 
@@ -52,7 +52,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SameerDhumal08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
