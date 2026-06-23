@@ -1,18 +1,20 @@
 # 💫 Hi 👋, I'm Sameer Dhumal
+
 ## 🚀 About Me
 
-# 🇮🇳 IT Professional | 2+ Years Experience
-🔭 Working as an ITSM Developer in the Tools Team
+🔹 🇮🇳 IT Professional with 2+ Years of Experience in Network Operations & IT Service Management (ITSM)
 
-🌱 Learning DevOps, AWS, Docker, Kubernetes & Python
+🔹 Currently working as an **ITSM Developer** in the Tools Team
 
-💬 Ask me about NOC Operations, MESDP, Linux, and Automation
+🔹 Learning **DevOps, AWS, Docker, Kubernetes, GitHub Actions & Python**
 
-🎓 PG-DAC (CDAC) Certified
+🔹 Experienced in ** MESDP, NOC Operations, Monitoring & Automation**
 
-🎯 On a journey to become a DevOps Engineer
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=ITSM+Developer;2%2B+Years+of+Experience;PG-DAC+%28CDAC%29+Certified;Aspiring+DevOps+Engineer)](https://git.io/typing-svg)
+🔹 🎓 PG-DAC (CDAC) Certified
+
+🔹 Passionate about Automation, Cloud Technologies & Continuous Learning
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&vCenter=true&width=700&lines=ITSM+Developer;2%2B+Years+of+Experience;PG-DAC+%28CDAC%29+Certified;Aspiring+DevOps+Engineer)](https://git.io/typing-svg)
 ![snake gif](https://github.com/SameerDhumal08/SameerDhumal08/blob/output/github-snake-dark.svg)
 
 ## 🌐 Socials:
@@ -62,10 +64,27 @@
 </div>
 
 ---
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SameerDhumal08&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SameerDhumal08&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=SameerDhumal08&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🌐 Connect With Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameerdhumal14)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/er.sameer.d)
+[![Email](https://img.shields.io/badge/Email-sameerdhumal.sd@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trainwithshubham@gmail.com)
+
+</div>
+
+<div align="center"> 
+<h3>🌱 Continuous Learning • Continuous Integration • Continuous Improvement</h3>
+<br>
+<a href="https://github.com/SameerDhumal08">
+  <img src="https://img.shields.io/github/followers/SameerDhumal08?label=Follow&style=social" alt="GitHub Followers" />
+</a>
+</div>
