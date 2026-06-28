@@ -83,4 +83,7 @@
 <a href="https://github.com/SameerDhumal08">
   <img src="https://img.shields.io/github/followers/SameerDhumal08?label=Follow&style=social" alt="GitHub Followers" />
 </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sameerdhumal08&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
 </div>
