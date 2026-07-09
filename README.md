@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="28" alt="✨"> Hi there, I'm Sameer Dhumal <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Sameer Dhumal
+##💫Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Sameer Dhumal
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me
 
