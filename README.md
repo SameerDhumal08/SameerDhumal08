@@ -1,5 +1,4 @@
-##💫Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Sameer Dhumal
-
+## 💫 Hi there! I'm Sameer Dhumal 👋
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me
 
 🔹 🇮🇳 IT Professional with 2+ Years of Experience in Network Operations & IT Service Management (ITSM)
