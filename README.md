@@ -6,7 +6,7 @@
 
 🔹 Currently working as an ***ITSM Tools Developer***
 
-🔹 Learning **DevOps, AWS, Docker, Kubernetes, GitHub Actions & Python**
+🔹 Learning **DevOps, AWS, Docker, Kubernetes, Jenkins, Ansible, GitHub Actions & Python**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&vCenter=true&width=700&lines=ITSM+Tools+Developer;2%2B+Years+of+Experience;PG-DAC+%28CDAC%29+Certified;Aspiring+DevOps+Engineer)](https://git.io/typing-svg)
 ![snake gif](https://github.com/SameerDhumal08/SameerDhumal08/blob/output/github-snake-dark.svg)
