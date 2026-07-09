@@ -4,7 +4,7 @@
 
 🔹 🇮🇳 IT Professional with 2+ Years of Experience in Network Operations & IT Service Management (ITSM)
 
-🔹 Currently working as an ***ITSM Tools Developer***
+🔹 Currently working as an ***ITSM Tools Developer*** and AI-powered solutions for IT operations projects.
 
 🔹 Learning **DevOps, AWS, Docker, Kubernetes, Jenkins, Ansible, GitHub Actions & Python**
 
