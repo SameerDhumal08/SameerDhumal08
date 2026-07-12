@@ -1,7 +1,7 @@
 ## 💫 Hi there! I'm Sameer Dhumal 👋
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me
 
-🔹 🇮🇳 IT Professional with 2+ Years of Experience in Network Operations & IT Service Management (ITSM)
+🔹 🇮🇳 IT Professional with 3+ Years of Experience in Network Operations & IT Service Management (ITSM)
 
 🔹 Currently working as an ***ITSM Tools Developer*** and AI-powered solutions for IT operations projects.
 
