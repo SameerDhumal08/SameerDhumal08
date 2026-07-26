@@ -13,17 +13,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2E9EF7&vCenter=true&width=700&lines=ITSM+Tools+Developer;2%2B+Years+of+Experience;PG-DAC+%28CDAC%29+Certified;AI+Enthusiast+|+Currently+Learning+AI+and+RAG)](https://git.io/typing-svg)
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/SameerDhumal08/SameerDhumal08/output/github-snake-dark.svg">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/SameerDhumal08/SameerDhumal08/output/github-snake-light.svg">
-
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/SameerDhumal08/SameerDhumal08/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SameerDhumal08/SameerDhumal08/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SameerDhumal08/SameerDhumal08/output/github-snake-light.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/SameerDhumal08/SameerDhumal08/output/github-snake.svg">
 </picture>
 ## 🌐 Socials:
 
