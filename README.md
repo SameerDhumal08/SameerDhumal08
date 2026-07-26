@@ -14,7 +14,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SameerDhumal08/SameerDhumal08/output/github-snake-light.svg">
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/SameerDhumal08/SameerDhumal08/output/github-snake.svg">
 </picture>
-## 🌐 Socials:
+
+## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sameerdhumal14) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16429564) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameerdhumal.sd@gmail,com) 
 
