@@ -9,7 +9,9 @@
 
 🔹 Exploring and eveloping expertise in Generative **AI, LLMs, RAG, and AI Agents**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2E9EF7&vCenter=true&width=700&lines=ITSM+Tools+Developer;2%2B+Years+of+Experience;PG-DAC+%28CDAC%29+Certified;AI+Enthusiast+|+Currently+Learning+AI+and+RAG)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2E9EF7&vCenter=true&width=700&lines=ITSM+Tools+Developer;2%2B+Years+of+Experience;BE+ENTC+PG-DAC+%28CDAC%29+Certified;Aspiring+Generative+AI+Developer+|+Focused+on+building+intelligent+AI+applications,+RAG-based+systems,+and+AI-powered+automation+solutions.)](https://git.io/typing-svg)
+
+🎯 Career Goal: Aspiring Generative AI Developer, focused on building intelligent AI applications, RAG-based systems, and AI-powered automation solutions.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SameerDhumal08/SameerDhumal08/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SameerDhumal08/SameerDhumal08/output/github-snake-light.svg">
