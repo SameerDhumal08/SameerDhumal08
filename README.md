@@ -9,7 +9,7 @@
 
 🔹 Exploring and eveloping expertise in Generative **AI, LLMs, RAG, and AI Agents**
 
-<div align="left">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=2000&color=FF0000&center=true&vCenter=true&width=700&lines=Aspiring+Generative+AI+Developer" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=2000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Focused+on+building+AI+applications" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=2000&color=00C853&center=true&vCenter=true&width=700&lines=RAG-based+systems,+and+AI-powered+automation+solutions." />
