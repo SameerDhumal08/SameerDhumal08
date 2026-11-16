@@ -10,11 +10,8 @@
 🔹 Exploring and eveloping expertise in Generative **AI, LLMs, RAG, and AI Agents**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=2000&color=FF0000&center=true&vCenter=true&width=700&lines=Aspiring+Generative+AI+Developer" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=2000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Focused+on+building+AI+applications" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=2000&color=00C853&center=true&vCenter=true&width=700&lines=LLMs,+RAG,+LangChain,+ AI+Agents,+Fast+APIs,+MCP" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=2000&color=2E9EF7&center=true&vCenter=true&width=800&height=50&lines=Aspiring+Generative+AI+Developer;Focused+on+building+AI+applications;LLMs,+RAG,+LangChain,+AI+Agents,+FastAPI,+MCP" />
 </div>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SameerDhumal08/SameerDhumal08/output/github-snake-dark.svg">
