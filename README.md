@@ -5,7 +5,9 @@
 
 🔹 Currently working as an ***ITSM Tools Developer*** and AI-powered solutions for IT operations projects.
 
-🔹 Learning **DevOps, AWS, Docker, Kubernetes, Jenkins, Ansible, GitHub Actions & Python**
+🔹 Currently learning and building projects using LangChain, LangGraph, FastAPI, MCP, Vector Databases, and LLM Integration.
+
+🔹 Exploring and eveloping expertise in Generative **AI, LLMs, RAG, and AI Agents**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2E9EF7&vCenter=true&width=700&lines=ITSM+Tools+Developer;2%2B+Years+of+Experience;PG-DAC+%28CDAC%29+Certified;AI+Enthusiast+|+Currently+Learning+AI+and+RAG)](https://git.io/typing-svg)
 <picture>
